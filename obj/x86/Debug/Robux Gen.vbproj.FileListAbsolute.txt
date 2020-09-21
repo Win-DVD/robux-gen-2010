@@ -8,3 +8,8 @@ C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\R
 C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\Robux Gen.pdb
 C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\WindowsApplication1.Main.resources
 C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\WindowsApplication1.Gen.resources
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Debug\Robux Gen.exe.manifest
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Debug\Robux Gen.application
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\Robux Gen.exe.manifest
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\Robux Gen.application
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\WindowsApplication1.bobux.resources

@@ -11,4 +11,11 @@
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As EventArgs) Handles Button1.Click
         Gen.Show()
     End Sub
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As EventArgs) Handles Button2.Click
+        bobux.Show()
+    End Sub
+
+    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
+    End Sub
 End Class

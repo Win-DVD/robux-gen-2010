@@ -27,8 +27,7 @@ Partial Class Main
         Me.Play = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Sto
@@ -68,14 +67,14 @@ Partial Class Main
         Me.Button1.Text = "Generate Robux"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'PictureBox1
+        'Button2
         '
-        Me.PictureBox1.Image = Global.WindowsApplication1.My.Resources.Resources.robux
-        Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(419, 345)
-        Me.PictureBox1.TabIndex = 4
-        Me.PictureBox1.TabStop = False
+        Me.Button2.Location = New System.Drawing.Point(12, 481)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(613, 23)
+        Me.Button2.TabIndex = 5
+        Me.Button2.Text = "Bobux Stealer 1.0"
+        Me.Button2.UseVisualStyleBackColor = True
         '
         'Main
         '
@@ -83,7 +82,7 @@ Partial Class Main
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.ClientSize = New System.Drawing.Size(637, 545)
-        Me.Controls.Add(Me.PictureBox1)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Play)
@@ -93,8 +92,7 @@ Partial Class Main
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "Main"
-        Me.Text = "Robux Generator 2010"
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Text = "Robux Generator 2010 1.1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -103,6 +101,6 @@ Partial Class Main
     Friend WithEvents Play As System.Windows.Forms.Button
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Button1 As System.Windows.Forms.Button
-    Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
+    Friend WithEvents Button2 As System.Windows.Forms.Button
 
 End Class
