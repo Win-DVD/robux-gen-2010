@@ -1,0 +1,10 @@
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Debug\Robux Gen.exe
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Debug\Robux Gen.pdb
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Debug\Robux Gen.xml
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\Robux Gen.vbproj.GenerateResource.Cache
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\Robux Gen.exe
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\Robux Gen.xml
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\Robux Gen.pdb
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Debug\WindowsApplication1.Gen.resources

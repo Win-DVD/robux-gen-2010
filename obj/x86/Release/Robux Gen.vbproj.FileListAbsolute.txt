@@ -1,0 +1,14 @@
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Release\Robux Gen.exe.manifest
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Release\Robux Gen.application
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Release\Robux Gen.exe
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Release\Robux Gen.pdb
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\bin\Release\Robux Gen.xml
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\WindowsApplication1.Main.resources
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\WindowsApplication1.Gen.resources
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\Robux Gen.vbproj.GenerateResource.Cache
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\Robux Gen.exe.manifest
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\Robux Gen.application
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\Robux Gen.exe
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\Robux Gen.xml
+C:\Users\Russell\documents\visual studio 2010\Projects\Robux Gen\obj\x86\Release\Robux Gen.pdb
